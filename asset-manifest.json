@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bus-tracker/static/css/main.fa0afce6.css",
+    "main.js": "/bus-tracker/static/js/main.560f82f5.js",
+    "static/js/483.c47b8f8b.chunk.js": "/bus-tracker/static/js/483.c47b8f8b.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/bus-tracker/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/bus-tracker/service-worker.js",
+    "static/media/bus-location.png": "/bus-tracker/static/media/bus-location.74d458e665d69040eb95.png",
+    "static/media/bus-stop.png": "/bus-tracker/static/media/bus-stop.f59a3c40562c7f9631f7.png",
+    "index.html": "/bus-tracker/index.html",
+    "main.fa0afce6.css.map": "/bus-tracker/static/css/main.fa0afce6.css.map",
+    "main.560f82f5.js.map": "/bus-tracker/static/js/main.560f82f5.js.map",
+    "483.c47b8f8b.chunk.js.map": "/bus-tracker/static/js/483.c47b8f8b.chunk.js.map",
+    "787.28cb0dcd.chunk.js.map": "/bus-tracker/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0afce6.css",
+    "static/js/main.560f82f5.js"
+  ]
+}
